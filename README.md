@@ -1,2 +1,3 @@
 # Hybridintrusion
-This is detection method
+This is detection method using two different techinques
+
